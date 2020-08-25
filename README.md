@@ -12,7 +12,7 @@ Insert in "Input_data_divided" the un-zipped file exported from your xiaomi acco
 
 each folder should contain only one csv file. 
 
-This first beta should simply create a sqlite database wqith 6 tables corresponding to the aforementioned categories. 
+This first **Alpha** should simply create a sqlite database wqith 6 tables corresponding to the aforementioned categories. 
 
 Urgent to do: 
 - Time conversion based on a precise time-zone 
