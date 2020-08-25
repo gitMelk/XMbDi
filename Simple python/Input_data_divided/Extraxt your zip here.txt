@@ -1,0 +1,8 @@
+In this folder you should have 6 folders: 
+
+    ACTIVITY
+    DOBY
+    HEARTRATE
+    SLEEP
+    SPORT
+    USER
